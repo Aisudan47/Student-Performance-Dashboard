@@ -1,4 +1,4 @@
-# 🚀 Unlock Student Potential: An Interactive Data Dashboard 🎓
+# 🎓 Student Performance Dashboard
 
 [![Dashboard Glimpse](Images/performance_dashboard_preview.png)](Dashboard/Student_Performance_Dashboard.pbix)
 
