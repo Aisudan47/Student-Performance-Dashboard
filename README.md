@@ -1,6 +1,7 @@
 # 🎓 Student Performance Dashboard
 
-[![Dashboard Glimpse](Images/performance_dashboard_preview.png)](Dashboard/Student_Performance_Dashboard.pbix)
+ 
+<img src="student performance dashboard powerbi.png" alt="Alt text">
 
 **Ever wondered what the story behind student performance numbers looks like?** This interactive Power BI dashboard transforms student data into clear, visual insights. Explore how test scores, mentorship involvement, academic choices, and student backgrounds connect. Whether you're aiming to improve education, analyze learning patterns, or build your data skills, this project provides a powerful lens.
 
