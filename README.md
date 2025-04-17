@@ -105,11 +105,6 @@ Student-Performance-Dashboard/
 <img src="student performance dashboard powerbi with database.png" alt="Alt text">
 
 ##
-- ### Student Performance dashboard powerbi with database
- ##
-<img src="student performance dashboard powerbi with database.png" alt="Alt text">
-
-##
 -  ### ERD student performance dashboard
  ##
 <img src="ERD student performance dashboard powerbi.png" alt="Alt text">
